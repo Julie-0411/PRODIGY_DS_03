@@ -10,8 +10,6 @@ This repository contains the code for input demographic and behavioral data for 
 
 Python 3.x
 
-Streamlit
-
 Scikit-learn
 
 Pandas
@@ -54,8 +52,6 @@ Number of Previous Campaigns
 Outcome of Previous Campaign (failure/success/other)
 
 # **Built With**
-
-Streamlit - The web framework used for building the dashboard
 
 Scikit-learn - The machine learning library used for training the decision tree classifier
 
